@@ -22,7 +22,7 @@ This project demonstrates data analysis using SQL & Excel. It includes data clea
 2. Open `Pizza_sales_analysis.xlsx` to explore interactive dashboards.
 
 ### 📢 Connect with Me
-Let's discuss data analytics! Feel free to connect with me on LinkedIn: [Mrityunjay](www.linkedin.com/in/mrityunjay-gupta-663290263)
+Let's discuss data analytics! Feel free to connect with me on LinkedIn: [Mrityunjay](https://www.linkedin.com/in/mrityunjay-gupta-663290263/)
 
 #SQL #Excel #DataAnalytics #BusinessIntelligence #PortfolioProject
 
